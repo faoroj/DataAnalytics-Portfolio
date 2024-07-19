@@ -1,11 +1,13 @@
 # [Project 1: Audible Insights: Audiobook Trends and Visualizations Over Time](https://github.com/faoroj/Audible-Data-Project)
 
-I undertook This personal project to explore and analyze Audible audiobook data over time. Using Excel for initial data cleaning and manipulation, MySQL for comprehensive data storage and querying, and Tableau for creating insightful visualizations, I looked into various aspects of audiobook trends. The analysis focuses on examining popular audiobooks, notable authors, pricing patterns, and user ratings. Through this project, I aimed to discover significant trends and patterns in the audiobook industry, providing a clearer understanding of how the market has evolved.
+I used this personal project to practice cleaning a very messy set of data on 87000 audible trends over time, along with this I performed some exploratory analysis to review some trends within the data once cleaned.
 
 
 # [Project 2: "Michigan Water Use Patterns: 2013-2022"](https://github.com/faoroj/Michigan-Water-Usage)
 
-I undertook This personal project to explore and analyze Audible audiobook data over time. Using Excel for initial data cleaning and manipulation, MySQL for comprehensive data storage and querying, and Tableau for creating insightful visualizations, I looked into various aspects of audiobook trends. The analysis focuses on examining popular audiobooks, notable authors, pricing patterns, and user ratings. Through this project, I aimed to discover significant trends and patterns in the audiobook industry, providing a clearer understanding of how the market has evolved.
+I undertook this personal project to perform some basic cleaning and exploratory analysis to further support my visualizations I later created in Tableau. These visualizations provided valuable insights into Michigan's water use patterns from 2013 to 2022, enabling a deeper understanding of how different industries utilize water resources across the state.
+
+
 
 
 
