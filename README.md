@@ -8,6 +8,7 @@ I used this personal project to practice cleaning a very messy set of data on 87
 I undertook this personal project to perform basic cleaning and exploratory analysis to further support the visualizations I later created in Tableau. These visualizations provided valuable insights into Michigan's water use patterns from 2013 to 2022, enabling a deeper understanding of how different industries utilize water resources across the state.
 
 
-# [Project 3: "Video Game Sales Dashboard"](https://github.com/faoroj/Michigan-Water-Usage)
+# [Project 3: "Video Game Sales Dashboard"](https://public.tableau.com/app/profile/jordon.faoro/viz/VideoGameVisualizationDB/VideoGamesVizDB#1)
 
+I created a comprehensive Tableau dashboard to visualize and analyze global video game sales data. The dataset includes information on game names, platforms, release years, genres, publishers, and regional sales (NA, EU, JP, and other regions) as well as global sales figures. The project aims to uncover key insights and trends in the video game industry, providing valuable information for stakeholders, analysts, and enthusiasts. 
 
