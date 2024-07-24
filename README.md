@@ -10,5 +10,5 @@ I undertook this personal project to perform basic cleaning and exploratory anal
 
 # [Project 3: "Video Game Sales Dashboard"](https://public.tableau.com/app/profile/jordon.faoro/viz/VideoGameVisualizationDB/VideoGamesVizDB#1)
 
-I created a comprehensive Tableau dashboard to visualize and analyze global video game sales data. The dataset includes information on game names, platforms, release years, genres, publishers, and regional sales (NA, EU, JP, and other regions) as well as global sales figures. The project aims to uncover key insights and trends in the video game industry, providing valuable information for stakeholders, analysts, and enthusiasts. 
+I created a comprehensive Tableau dashboard to visualize and analyze global video game sales data. The dataset includes information on game names, platforms, release years, genres, publishers, regional sales (NA, EU, JP, and other regions), and global sales figures. The project aims to uncover key insights and trends in the video game industry, providing valuable information for stakeholders, analysts, and enthusiasts. 
 
