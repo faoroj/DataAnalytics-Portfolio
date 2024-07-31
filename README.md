@@ -12,6 +12,6 @@ I undertook this personal project to perform basic cleaning and exploratory anal
 
 I created a comprehensive Tableau dashboard to visualize and analyze global video game sales data. The dataset includes information on game names, platforms, release years, genres, publishers, regional sales (NA, EU, JP, and other regions), and global sales figures. The project aims to uncover key insights and trends in the video game industry, providing valuable information for stakeholders, analysts, and enthusiasts. 
 
-# [Project 4: "CS Student Database Analysis"](https://github.com/faoroj/CS_Student_Data_Project)
+# [Project 4: "CS Students Database Analysis"](https://github.com/faoroj/CS_Student_Data_Project)
 
 Conducted an in-depth analysis of CS student demographics, education levels, and technology usage patterns. Utilized SQL to clean and aggregate data, uncovering trends in developer preferences, social media usage, and programming languages. This analysis provides insights into student backgrounds, technology engagement, and future career aspirations, aiding in understanding current and future developer landscapes.
