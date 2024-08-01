@@ -1,6 +1,6 @@
 # [Project 1: "Audible Data Cleaning and Exploring Trends Over Time"](https://github.com/faoroj/Audible-Data-Project)
 
- Iused this personal project to practice cleaning a very messy set of data on 87,000 audible trends over time, along with this I performed some exploratory analysis to review some trends within the data once cleaned.
+ I used this personal project to practice cleaning a very messy set of data on 87,000 audible trends over time, along with this I performed some exploratory analysis to review some trends within the data once cleaned.
 
 
 # [Project 2: "Michigan Water Use Patterns: 2013-2022"](https://github.com/faoroj/Michigan-Water-Usage)
