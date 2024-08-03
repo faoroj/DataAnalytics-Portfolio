@@ -14,4 +14,4 @@ I created a comprehensive Tableau dashboard to visualize and analyze global vide
 
 # [Project 4: "CS Students Database Analysis"](https://github.com/faoroj/CS_Student_Data_Project)
 
-Conducted an in-depth analysis of CS student demographics, education levels, and technology usage patterns. Utilized SQL to clean and aggregate data, uncovering trends in developer preferences, social media usage, and programming languages. This analysis provides insights into student backgrounds, technology engagement, and future career aspirations, aiding in understanding current and future developer landscapes.
+I conducted an in-depth analysis of CS student demographics, education levels, and technology usage patterns. I utilized SQL to clean and aggregate data, uncovering trends in developer preferences, social media usage, and programming languages. This analysis provides insights into student backgrounds, technology engagement, and future career aspirations, aiding in understanding current and future developer landscapes.
