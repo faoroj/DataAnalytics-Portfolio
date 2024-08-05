@@ -1,5 +1,5 @@
 # [Project 1: "World Causes Of Death 1990-2019"](https://github.com/faoroj/Cause-of-Death-Analysis/tree/main)
-
+Conducted an in-depth analysis of global causes of death using Python and Pandas. Created insightful visualizations with Seaborn and Matplotlib to highlight trends and patterns in mortality data across countries and years. Successfully managed large datasets, handled missing values, and presented clear findings through charts and maps.
 
 # [Project 2: "Audible Data Cleaning and Exploring Trends Over Time"](https://github.com/faoroj/Audible-Data-Project)
 
