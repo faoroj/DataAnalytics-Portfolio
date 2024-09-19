@@ -1,5 +1,5 @@
 # [Project 1: "Diabetes Database Analysis"](https://github.com/faoroj/Diabetes-Data-Analysis)
-This project aims to analyze a comprehensive diabetes dataset to uncover patterns and relationships among key variables, including age, gender, BMI, hypertension, heart disease, smoking history, HbA1c levels(Hemoglobin A1c), and blood glucose levels.
+This project aims to yze a comprehensive diabetes dataset to uncover patterns and relationships among key variables, including age, gender, BMI, hypertension, heart disease, smoking history, HbA1c levels(Hemoglobin A1c), and blood glucose levels.
 
 # [Project 2: "World Causes Of Death 1990-2019"](https://github.com/faoroj/Cause-of-Death-Analysis/tree/main)
 Conducted an in-depth analysis of global causes of death using Python and Pandas. Created insightful visualizations with Seaborn and Matplotlib to highlight trends and patterns in mortality data across countries and years. Successfully managed large datasets, handled missing values, and presented clear findings through charts and maps.
